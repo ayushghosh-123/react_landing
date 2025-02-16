@@ -1,7 +1,5 @@
 # React - landing page
-
-I make this responsive and react landing page . It also be responsive i make the toggling .
-
+I've developed a responsive landing page using React.  It's designed to adapt to different screen sizes and includes a toggling feature
 ---
 ## 🛠️ TECHNOLOGY 
 
