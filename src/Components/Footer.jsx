@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { resourcesLinks, platformLinks, communityLinks } from '../Constant';
 
 function Footer() {

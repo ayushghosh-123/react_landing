@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Nav from "./Components/Nav";
 import Hero from "./Components/Hero";
 import Feature from "./Components/Feature";

@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { testimonials } from '../Constant/index.jsx'
 
 function Testimonial() {

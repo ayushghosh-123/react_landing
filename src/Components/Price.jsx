@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { pricingOptions } from "../Constant";
 import { CheckCircle2 } from "lucide-react";
 
